@@ -1,0 +1,313 @@
+{
+  "trainees": [
+    {
+      "Trainee_ID": "TR-001",
+      "Name": "Demo Trainee",
+      "Email": "tr-001@example.com",
+      "Current_Task": "Implement a binary search function that searches a sorted list and returns the item's index, handling duplicates.",
+      "Status": "Scheduled",
+      "Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Meet_Link": "",
+      "Stage": "Feedback Call Scheduled",
+      "Last_Score": 88,
+      "Feedback_Summary": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Feedback_Meet_Link": "",
+      "Current_Task_Level": 2
+    },
+    {
+      "Trainee_ID": "TR-002",
+      "Name": "Demo Trainee",
+      "Email": "tr-002@example.com",
+      "Current_Task": "Implement a binary search function that searches a sorted list and returns the item's index, handling duplicates.",
+      "Status": "Reviewed",
+      "Explanation": "Think of this like guessing a number between 1 and 100! Each time, you guess right in the middle.",
+      "Meet_Link": "",
+      "Stage": "Feedback Call Scheduled",
+      "Last_Score": 88,
+      "Feedback_Summary": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Feedback_Meet_Link": "",
+      "Current_Task_Level": 2
+    },
+    {
+      "Trainee_ID": "TR-003",
+      "Name": "Demo Trainee",
+      "Email": "tr-003@example.com",
+      "Current_Task_Level": 3,
+      "Current_Task": "Build a Python script that fetches real-time weather data from a free public API and saves a daily summary report.",
+      "Stage": "Feedback Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": 88,
+      "Feedback_Summary": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!"
+    },
+    {
+      "Trainee_ID": "TR-004",
+      "Name": "Demo Trainee",
+      "Email": "tr-004@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-005",
+      "Name": "Demo Trainee",
+      "Email": "tr-005@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-006",
+      "Name": "Demo Trainee",
+      "Email": "tr-006@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-007",
+      "Name": "Demo Trainee",
+      "Email": "tr-007@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-008",
+      "Name": "Demo Trainee",
+      "Email": "tr-008@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-009",
+      "Name": "Demo Trainee",
+      "Email": "tr-009@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    },
+    {
+      "Trainee_ID": "TR-010",
+      "Name": "Demo Trainee",
+      "Email": "tr-010@example.com",
+      "Current_Task_Level": 1,
+      "Current_Task": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Stage": "Kickoff Call Scheduled",
+      "Task_Explanation": "Hi there! Think of this task like packing a super organized backpack for a camping trip:\n\nStep 1: Get your empty box (set up your file).\nStep 2: Carefully pick up each item one-by-one (read the inputs).\nStep 3: Put them in their special compartments (format the data nicely).\nStep 4: Zip it up and show your teacher (save and submit)!\n\nYou're going to do awesome! Take it one brick at a time!",
+      "Kickoff_Meet_Link": "",
+      "Feedback_Meet_Link": "",
+      "Last_Score": "",
+      "Feedback_Summary": ""
+    }
+  ],
+  "submissions": [
+    {
+      "Submission_ID": "SUB-101",
+      "Trainee_ID": "TR-002",
+      "Code_Or_Text_Link": "def binary_search(arr, target):\n    low = 0\n    high = len(arr) - 1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == target:\n            return mid\n        elif arr[mid] < target:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1",
+      "AI_Feedback": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Score": 88,
+      "Mistakes_List": "- Edge case handling: If input is empty or None, the function might raise an unexpected exception. Add an early return guard.\n- Code commenting: Consider adding a short 1-line docstring to describe the expected output.",
+      "Feedback": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Mistakes": "- Edge case handling: If input is empty or None, the function might raise an unexpected exception. Add an early return guard.\n- Code commenting: Consider adding a short 1-line docstring to describe the expected output.",
+      "Processed": true
+    },
+    {
+      "Submission_ID": "SUB-102",
+      "Trainee_ID": "TR-001",
+      "Task_Title": "Write a Python script that reads a CSV of sales data and calculates total revenue.",
+      "Code": "import csv\r\nimport sys\r\nfrom decimal import Decimal, InvalidOperation\r\n\r\ndef calculate_total_revenue(csv_file_path):\r\n    \"\"\"\r\n    Reads a CSV file and calculates total revenue.\r\n    Revenue = Quantity * Price for each row.\r\n    \"\"\"\r\n    total_revenue = Decimal('0.00')\r\n\r\n    try:\r\n        with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:\r\n            reader = csv.DictReader(file)\r\n\r\n            # Validate required columns\r\n            required_columns = {'Quantity', 'Price'}\r\n            if not required_columns.issubset(reader.fieldnames):\r\n                raise ValueError(f\"CSV must contain columns: {', '.join(required_columns)}\")\r\n\r\n            for row in reader:\r\n                try:\r\n                    quantity = int(row['Quantity'])\r\n                    price = Decimal(row['Price'])\r\n                    total_revenue += quantity * price\r\n                except (ValueError, InvalidOperation):\r\n                    print(f\"Skipping invalid row: {row}\")\r\n                    continue\r\n\r\n        return total_revenue\r\n\r\n    except FileNotFoundError:\r\n        print(f\"Error: File '{csv_file_path}' not found.\")\r\n        sys.exit(1)\r\n    except ValueError as ve:\r\n        print(f\"Error: {ve}\")\r\n        sys.exit(1)\r\n    except Exception as e:\r\n        print(f\"Unexpected error: {e}\")\r\n        sys.exit(1)\r\n\r\n\r\nif __name__ == \"__main__\":\r\n    # Ensure file path is provided\r\n    if len(sys.argv) != 2:\r\n        print(\"Usage: python sales_revenue.py <path_to_csv>\")\r\n        sys.exit(1)\r\n\r\n    csv_path = sys.argv[1]\r\n    total = calculate_total_revenue(csv_path)\r\n    print(f\"Total Revenue: ₹{total:.2f}\")",
+      "Score": 88,
+      "Feedback": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Mistakes": "- Edge case handling: If input is empty or None, the function might raise an unexpected exception. Add an early return guard.\n- Code commenting: Consider adding a short 1-line docstring to describe the expected output.",
+      "Processed": true
+    },
+    {
+      "Submission_ID": "SUB-103",
+      "Trainee_ID": "TR-003",
+      "Task_Title": "Write a Python script that reads student records from a CSV file and calculates average marks.",
+      "Code": "bkos",
+      "Score": 88,
+      "Feedback": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Mistakes": "- Edge case handling: If input is empty or None, the function might raise an unexpected exception. Add an early return guard.\n- Code commenting: Consider adding a short 1-line docstring to describe the expected output.",
+      "Processed": true
+    },
+    {
+      "Submission_ID": "SUB-104",
+      "Trainee_ID": "TR-003",
+      "Task_Title": "Implement a binary search function that searches a sorted list and returns the item's index, handling duplicates.",
+      "Code": "bkos",
+      "Score": 88,
+      "Feedback": "Hello! You have written clean, straightforward logic here. Your variable naming is clear and the overall structure is very promising. With a small check on edge cases, this will be perfect!",
+      "Mistakes": "- Edge case handling: If input is empty or None, the function might raise an unexpected exception. Add an early return guard.\n- Code commenting: Consider adding a short 1-line docstring to describe the expected output.",
+      "Processed": true
+    }
+  ],
+  "activity_log": [
+    {
+      "time": "14:14:38",
+      "message": "Promoted Demo Trainee to Level 3: API Integration & Web Automation"
+    },
+    {
+      "time": "14:14:38",
+      "message": "Graded Demo Trainee: 88/100. Dispatched Feedback Email & Call Link."
+    },
+    {
+      "time": "14:14:34",
+      "message": "Auto-evaluating submission from Demo Trainee..."
+    },
+    {
+      "time": "14:14:31",
+      "message": "Received assignment submission from Demo Trainee."
+    },
+    {
+      "time": "14:14:28",
+      "message": "Promoted Demo Trainee to Level 2: Data Structures & Search Algorithms"
+    },
+    {
+      "time": "14:14:28",
+      "message": "Graded Demo Trainee: 88/100. Dispatched Feedback Email & Call Link."
+    },
+    {
+      "time": "14:14:24",
+      "message": "Auto-evaluating submission from Demo Trainee..."
+    },
+    {
+      "time": "14:14:22",
+      "message": "Received assignment submission from Demo Trainee."
+    },
+    {
+      "time": "13:59:41",
+      "message": "Enrolled Demo Trainee (TR-010). Kickoff call scheduled."
+    },
+    {
+      "time": "13:59:41",
+      "message": "Enrolled Demo Trainee (TR-009). Kickoff call scheduled."
+    },
+    {
+      "time": "13:59:07",
+      "message": "Enrolled Demo Trainee (TR-008). Kickoff call scheduled."
+    },
+    {
+      "time": "13:39:50",
+      "message": "Kickoff Google Meet & Email dispatched for Demo Trainee"
+    },
+    {
+      "time": "13:39:49",
+      "message": "Auto-generating explanation & Kickoff Call for Demo Trainee..."
+    },
+    {
+      "time": "13:39:49",
+      "message": "Kickoff Google Meet & Email dispatched for Demo Trainee"
+    },
+    {
+      "time": "13:39:46",
+      "message": "Auto-generating explanation & Kickoff Call for Demo Trainee..."
+    },
+    {
+      "time": "13:39:46",
+      "message": "Kickoff Google Meet & Email dispatched for Demo Trainee"
+    },
+    {
+      "time": "13:39:45",
+      "message": "Auto-generating explanation & Kickoff Call for Demo Trainee..."
+    },
+    {
+      "time": "13:39:45",
+      "message": "Kickoff Google Meet & Email dispatched for Demo Trainee"
+    },
+    {
+      "time": "13:39:44",
+      "message": "Auto-generating explanation & Kickoff Call for Demo Trainee..."
+    },
+    {
+      "time": "13:39:44",
+      "message": "Kickoff Google Meet & Email dispatched for Demo Trainee"
+    },
+    {
+      "time": "13:39:41",
+      "message": "Auto-generating explanation & Kickoff Call for Demo Trainee..."
+    },
+    {
+      "time": "13:39:33",
+      "message": "Enrolled Demo Trainee (TR-007). Starting autonomous progression."
+    },
+    {
+      "time": "13:39:33",
+      "message": "Enrolled Demo Trainee (TR-006). Starting autonomous progression."
+    },
+    {
+      "time": "13:39:33",
+      "message": "Enrolled Demo Trainee (TR-005). Starting autonomous progression."
+    },
+    {
+      "time": "13:39:33",
+      "message": "Enrolled Demo Trainee (TR-004). Starting autonomous progression."
+    },
+    {
+      "time": "13:39:26",
+      "message": "Enrolled Demo Trainee (TR-003). Starting autonomous progression."
+    },
+    {
+      "time": "13:01:54",
+      "message": "Promoted Alex Rivera to Level 2: Data Structures & Search Algorithms"
+    },
+    {
+      "time": "13:01:54",
+      "message": "Graded Alex Rivera: 88/100. Scheduled Feedback Call ("
+    },
+    {
+      "time": "13:01:54",
+      "message": "Auto-evaluating submission from Alex Rivera..."
+    },
+    {
+      "time": "13:01:54",
+      "message": "Promoted Sarah Chen to Level 2: Data Structures & Search Algorithms"
+    },
+    {
+      "time": "13:01:54",
+      "message": "Graded Sarah Chen: 88/100. Scheduled Feedback Call ("
+    },
+    {
+      "time": "13:01:54",
+      "message": "Auto-evaluating submission from Sarah Chen..."
+    },
+    {
+      "time": "12:57:16",
+      "message": "Received assignment submission from Alex Rivera."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+credentials*.json
+token.json
+__pycache__/
+*.py[cod]
+explanations/
+outbox_emails/
